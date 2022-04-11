@@ -9,7 +9,7 @@ namespace PadraoMatriz
         static void Main(string[] args)
         {
             
-            Stopwatch sw = Stopwatch.StartNew();
+            Stopwatch sw = new Stopwatch();
             Random rnd = new Random();
             int[,] matrix = CreateMatrix(100, 100);
             int[,] padrao = new int[3,3]
@@ -50,7 +50,7 @@ namespace PadraoMatriz
             int counter = 0;
              void getPadrao(int[,] matrix, int[,] padrao, int x, int y)
             {
-                
+                sw.Start();
                 for (int i = 0; i < y; i++)
                 {
                     for (int l = 0; l < x; l++)
@@ -84,11 +84,11 @@ namespace PadraoMatriz
                             }
                         }
                     }
+                    sw.Stop();
                 }
             }
              getPadrao(matrix, padrao, 100, 100);
-             Console.WriteLine(counter+" foram padrões achados");
-             sw.Stop();
+             Console.WriteLine(" foram achados {0} padrões", counter);
              Console.WriteLine("duração foi {0}ms", sw.Elapsed.TotalMilliseconds);
         }
     }
