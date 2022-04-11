@@ -1,0 +1,16 @@
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\bin\Debug\net5.0\PadraoMatriz.exe
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\bin\Debug\net5.0\PadraoMatriz.deps.json
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\bin\Debug\net5.0\PadraoMatriz.runtimeconfig.json
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\bin\Debug\net5.0\PadraoMatriz.runtimeconfig.dev.json
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\bin\Debug\net5.0\PadraoMatriz.dll
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\bin\Debug\net5.0\ref\PadraoMatriz.dll
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\bin\Debug\net5.0\PadraoMatriz.pdb
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\obj\Debug\net5.0\PadraoMatriz.csproj.AssemblyReference.cache
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\obj\Debug\net5.0\PadraoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\obj\Debug\net5.0\PadraoMatriz.AssemblyInfoInputs.cache
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\obj\Debug\net5.0\PadraoMatriz.AssemblyInfo.cs
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\obj\Debug\net5.0\PadraoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\obj\Debug\net5.0\PadraoMatriz.dll
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\obj\Debug\net5.0\ref\PadraoMatriz.dll
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\obj\Debug\net5.0\PadraoMatriz.pdb
+C:\Users\mateu\RiderProjects\PadraoMatriz\PadraoMatriz\obj\Debug\net5.0\PadraoMatriz.genruntimeconfig.cache
